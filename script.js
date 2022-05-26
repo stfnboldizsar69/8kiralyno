@@ -1,0 +1,1 @@
+let kiralynoszam = 8;
